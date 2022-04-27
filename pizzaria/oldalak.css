@@ -1,0 +1,10 @@
+body{
+    background-image:url("pizza.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+label{
+    color: aliceblue;
+    font-size: 60px;
+}
